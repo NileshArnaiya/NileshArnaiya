@@ -3,7 +3,7 @@
 <!--
 **NileshArnaiya/NileshArnaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm Nilesh Arnaiya, Mentor at Udacity & Mentorcruise & an Android Developer at Webloom Solutions
+- I'm Nilesh Arnaiya, Mentor at Udacity & Mentorcruise & an Android Developer at Genuin Inc
 - 🔭 I’m currently working on Text To Story GANs
 - 🌱 I’m currently learning NLP - applying BERT-3 to specific GAN Models
 - 👯 I’m looking to collaborate on AI generating art using magenta(Google's Research platform)
