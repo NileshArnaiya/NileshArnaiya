@@ -63,7 +63,7 @@ Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NileshArnaiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=NileshArnaiya&show_icons=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=NileshArnaiya&show_icons=true&theme=cobalt)
 
 [website]: https://nilesharnaiya.github.io
 [twitter]: https://twitter.com/NileshArnaiya
