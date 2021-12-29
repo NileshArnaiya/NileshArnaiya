@@ -51,15 +51,12 @@ Languages
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-
-<br />
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NileshArnaiya.visitor-badge&left_color=green&right_color=red)
 <br />
