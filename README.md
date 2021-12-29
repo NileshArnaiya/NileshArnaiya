@@ -61,6 +61,8 @@ Languages
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NileshArnaiya.visitor-badge&left_color=green&right_color=red)
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NileshArnaiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://nilesharnaiya.github.io
 [twitter]: https://twitter.com/NileshArnaiya
 [youtube]: https://www.youtube.com/channel/UCR9zKTQN2fGv3BPlAHBkeMg/
