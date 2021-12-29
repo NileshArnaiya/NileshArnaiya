@@ -28,6 +28,10 @@
 [<img align="left" alt="NileshArnaiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+## Resume
+  - :octocat: [My Resume](https://drive.google.com/file/d/10DLaxREqFfpkGy_UbiF7aOTkKoBmHKIi/view)
+
 <br />
 Languages
 
