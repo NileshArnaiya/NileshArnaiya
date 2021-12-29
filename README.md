@@ -60,10 +60,7 @@ Languages
 
 <!--END_SECTION:activity-->
 
----
 
-
-<br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NileshArnaiya.visitor-badge&left_color=green&right_color=red)
 <br />
 
