@@ -53,6 +53,8 @@ Languages
 
 
 <br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NileshArnaiya.visitor-badge&left_color=green&right_color=red)
 <br />
 
 [website]: https://nilesharnaiya.github.io
