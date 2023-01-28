@@ -3,7 +3,7 @@
 <!--
 **NileshArnaiya/NileshArnaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm Nilesh Arnaiya, Mentor at Mentorcruise, Teacher at Techmentry & an Android Developer
+- I'm Nilesh Arnaiya, Mentor at Mentorcruise, ML Researcher at StabilityAI(2minuteAI) & an Android Developer
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
 - 🔭 I’m currently working on Text To Story GANs, AI Art
