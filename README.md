@@ -30,7 +30,7 @@
 <br />
 
 ## Resume
-  - :octocat: [My Resume](https://drive.google.com/file/d/10DLaxREqFfpkGy_UbiF7aOTkKoBmHKIi/view)
+  - :octocat: [My Resume](https://drive.google.com/file/d//view)
 
 <br />
 Languages
@@ -65,7 +65,7 @@ Languages
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=NileshArnaiya&show_icons=true&theme=cobalt)
 
-[website]: https://nilesharnaiya.github.io
+[website]: https://nilesharnaiya.com
 [twitter]: https://twitter.com/NileshArnaiya
 [youtube]: https://www.youtube.com/channel/UCR9zKTQN2fGv3BPlAHBkeMg/
 [youtube2]: https://www.youtube.com/channel/UCpXBO_B9FAxZ5FH8c2HFKvQ
