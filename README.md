@@ -7,8 +7,8 @@
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
 - 🔭 I’m currently working on Text To Story GANs, AI Art
-- 🌱 I’m currently learning Deep RL 
-- 👯 I’m looking to collaborate on robotics, research papers
+- 🌱 I’m currently learning Deep RL, 3D Gaussian Splatting 
+- 👯 I’m looking to collaborate on Low Resource NLP, robotics, research papers
 - 🤔 I’m looking for someone to share knowledge about astronomy, neuroscience 
 - 💬 Ask me about Android & Python & Science Fiction Books
 - 📫 How to reach me: Email
