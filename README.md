@@ -3,17 +3,16 @@
 <!--
 **NileshArnaiya/NileshArnaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm Nilesh Arnaiya ニレシュ, Mentor at Mentorcruise
+- I'm Nilesh Arnaiya ニレシュ, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Android developer
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
-- 🔭 I’m currently working on Text To Story GANs, AI Art
-- 🌱 I’m currently learning Deep RL, 3D Gaussian Splatting 
-- 👯 I’m looking to collaborate on Low Resource NLP, robotics, research papers
-- 🤔 I’m looking for someone to share knowledge about astronomy, neuroscience 
+- 🔭 I’m currently working on Text To Story Videos at [Visually AI](https://visual-ly.vercel.app), AI Art
+- 🌱 I’m currently learning Deep RL, 3D Gaussian Splatting, Finetuning Llms for businesses 
+- 👯 I’m looking to collaborate on Low Resource NLP for building in India, low cost robotics toys for fun and agriculture, and research papers
+- 🤔 I’m looking for someone to share knowledge about astronomy, neuroscience and books 
 - 💬 Ask me about Android & Python & Science Fiction Books
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I learnt to code because I actually love computers. 
-- :books: Download the Turing AI App - [Play store](https://play.google.com/store/apps/details?id=turing.labs.ai)
 
 ### Connect with me:
 
