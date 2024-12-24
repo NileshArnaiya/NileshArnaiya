@@ -6,7 +6,7 @@
 - I'm Nilesh Arnaiya ニレシュ, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Android developer
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
-- Creating interactive visual education for free - [Upcourse AI](https://upcourse.io)
+- Creating interactive visual education for free - [Upcourse.io](https://upcourse.io)
 - 🔭 I’m currently working on Text To Story Videos at [Upcourse AI](https://upcourse.io),
 - 🌱 I’m currently doing autoregressive LLMs Deep RL, 3D Gaussian Splatting, Finetuning Llms for businesses 
 - 👯 I’m looking to collaborate on Low Resource NLP for building in India, low cost robotics toys for fun and agriculture, and research papers focused on sleep and memory
