@@ -6,9 +6,10 @@
 - I'm Nilesh Arnaiya ニレシュ, Yale researcher, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Prev - Android developer
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
+
+- Building a research writing AI assistant for academics - [Bibby](https://trybibby.com)
 - Creating interactive visual simulated education for businesses - [Upcourse.io](https://upcourse.io)
 - 🔭 I’m currently working on pybooks - [pybooks.com](https://pybooks.com)
-- Creating research writing AI assistant - [Bibby](https://trybibby.com) 
 - 🌱 I’m currently doing autoregressive LLMs Deep RL, 3D Gaussian Splatting, Finetuning Llms for businesses 
 - 👯 I’m looking to collaborate on Low Resource NLP for building in India, low cost robotics toys for fun and agriculture, and research papers focused on sleep and memory
 - 🤔 I’m looking for someone to share knowledge about astronomy, neuroscience and books 
