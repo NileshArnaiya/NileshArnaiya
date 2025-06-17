@@ -3,7 +3,7 @@
 <!--
 **NileshArnaiya/NileshArnaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm Nilesh Arnaiya ニレシュ, Yale researcher, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Prev - Android developer
+- I'm Nilesh Arnaiya ニレシュ, Temporary Yale associate, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Prev - Android developer
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
 
