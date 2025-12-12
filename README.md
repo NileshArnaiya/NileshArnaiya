@@ -3,19 +3,18 @@
 <!--
 **NileshArnaiya/NileshArnaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm Nilesh Arnaiya ニレシュ, Temporary Yale associate, Mentor at Mentorcruise, Founder, Data Scientist, ML engineer, Prev - Android developer
+- I'm Nilesh Arnaiya ニレシュ, Check here - https://nilesh.figma.site/
 - [![Twitter Follow](https://img.shields.io/twitter/follow/NileshArnaiya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNileshArnaiya&screen_name=NileshArnaiya)
 
 
-- Building a research writing AI assistant for academics - [Bibby](https://trybibby.com)
-- Creating interactive visual simulated education for businesses - [Upcourse.io](https://upcourse.io)
-- 🔭 I’m currently working on pybooks - [pybooks.com](https://pybooks.com)
+- Building a research paper writing tool for academics - [Bibby](https://trybibby.com)
+- Creating interactive visual simulated education for businesses - [Pybooks](https://pybooks.com)
 - 🌱 I’m currently doing autoregressive LLMs Deep RL, 3D Gaussian Splatting, Finetuning Llms for businesses 
 - 👯 I’m looking to collaborate on Low Resource NLP for building in India, low cost robotics toys for fun and agriculture, and research papers focused on sleep and memory
 - 🤔 I’m looking for someone to share knowledge about astronomy, neuroscience and books 
 - 💬 Ask me about Android & Python & Science Fiction Books
 - 📫 How to reach me: Email
-- ⚡ Fun fact: I learnt to code because I actually love computers. 
+- ⚡ Fun fact: I learnt to code because of Pacman 
 
 ### Connect with me:
 
@@ -28,11 +27,6 @@
 [<img align="left" alt="NileshArnaiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NileshArnaiya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NileshArnaiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-## Resume
-  - :octocat: [My Resume](https://drive.google.com/file/d//view)
 
 <br />
 Languages
@@ -69,8 +63,7 @@ Languages
 
 [website]: https://nilesharnaiya.com
 [twitter]: https://twitter.com/NileshArnaiya
-[youtube]: https://www.youtube.com/channel/UCR9zKTQN2fGv3BPlAHBkeMg/
-[youtube2]: https://www.youtube.com/channel/UCpXBO_B9FAxZ5FH8c2HFKvQ
-[instagram]: https://instagram.com/2minuteai
+[youtube]: https://www.youtube.com/@2minuteai
+[instagram]: https://instagram.com/phdgpt
 [linkedin]: https://linkedin.com/in/NileshArnaiya
 
